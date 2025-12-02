@@ -12,7 +12,12 @@
 // let num = 6;
 // console.log(sumtwo(num));
 
-const a = 5;
-const b = 5;
-const sum = a + b;
-console.log(sum);
+// const a = 5;
+// const b = 5;
+// const sum = a + b;
+// console.log(sum);
+
+
+
+    
+
