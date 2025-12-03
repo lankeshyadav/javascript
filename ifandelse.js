@@ -72,7 +72,7 @@
 // }
 
 
-var age = 50;
+var age = 60;
 switch(true){
     case (age >= 15 && age <= 20):
        console.log("you are eligible");
