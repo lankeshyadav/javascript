@@ -81,5 +81,5 @@ switch(true){
          console.log("you are not eligible");
     break;
     default:
-        console.log("Enter valid age")
+        console.log("Enter valid age");
 }
